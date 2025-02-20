@@ -16,7 +16,7 @@ A linguagem oficial do contest é Python.
 - Penalização: 
 Não haverá penalidade por submissões incorretas. Aproveite para tentar novamente sem preocupações.
 - Classificação: 
-A classificação será baseada no número de problemas resolvidos e no tempo total de submissão.
+A classificação será baseada no tempo de submissão e no número de balões recebidos, sendo cada balão correspondente a um problema resolvido.
 - Submissões: 
 Verifique seus códigos e teste localmente antes de submeter para evitar erros simples.
 - Suporte: 
