@@ -9,6 +9,8 @@
      
 
 #### Regras do Contest 
+- Identificação:
+Crie uma branch com o seu nome e mude a pasta [NOME] para o seu nome.
 - Formato: 
 O contest será realizado online e cada participante deverá resolver o máximo de problemas possível dentro do tempo limite.
 - Linguagem de Programação: 
@@ -17,8 +19,6 @@ A linguagem oficial do contest é Python.
 Não haverá penalidade por submissões incorretas. Aproveite para tentar novamente sem preocupações.
 - Classificação: 
 A classificação será baseada no tempo de submissão e no número de balões recebidos, sendo cada balão correspondente a um problema resolvido.
-- Submissões: 
-Verifique seus códigos e teste localmente antes de submeter para evitar erros simples.
 - Suporte: 
 Em caso de dúvidas ou problemas técnicos, basta chamar um das pessoas que faz parte da organização.
          
